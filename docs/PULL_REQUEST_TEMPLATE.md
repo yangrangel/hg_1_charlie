@@ -1,7 +1,7 @@
 # Tipo de usuario 👮‍♂️👨‍🏫🕵️‍♂️👨‍🎤🧙‍♂️
 - [ ] Alfa
 - [ ] Bravo 
-- [ ] Charlie
+- [x] Charlie
 - [ ] Delta
 - [ ] Echo
 
@@ -10,4 +10,4 @@
 - [ ] Hotfix
 - [ ] Refactor
 - [ ] Performance
-- [ ] Testing
+- [x] Testing
